@@ -1,0 +1,9 @@
+t1 i1 i2 i5
+t2 i2 i4
+t3 i2 i3
+t4 i1 i2 i4
+t5 i1 i3
+t6 i2 i3
+t7 i1 i3
+t8 i1 i2 i3 i5
+t9 i1 i2 i3
